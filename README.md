@@ -1,2 +1,2 @@
 # hampton-registers
-Only for version checking! The resource can be found on tebex.
+only for version checking. the resource can be found on tebex.
